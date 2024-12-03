@@ -38,6 +38,8 @@ Below given are the results achieved on the validation dataset.
 | :------------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | ReNet101 with Squeeze-Excitation | 0.9843 | 0.9896 | 0.7593 | 0.7578 | 0.8388 | 0.7796 | 
 
+## ACHIEVED RANK 11th IN CAPSULE VISION CHALLENGE 2024
+
 ## Conclusion
 We presented an SE-ResNet101-based approach for VCE abnormality classification,
 achieving high specificity and mean AUC, with competitive sensitivity and F1 scores.
